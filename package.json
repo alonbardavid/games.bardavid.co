@@ -1,0 +1,16 @@
+{
+    "name": "games.bardavid.co",
+    "description": "games made by bardavid family",
+    "private": "true",
+    "authors": "alon@bardavid.co",
+    "version": "1.0.0",
+    "main": "src/main.js",
+    "scripts": {
+        "serve": "snowpack dev",
+        "build": "snowpack build"
+    },
+    "dependencies": {
+        "phaser": "^3.55.2",
+        "snowpack": "^3.8.8"
+    }
+}
